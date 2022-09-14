@@ -12,4 +12,7 @@ Airbnb is a paid community platform for renting and booking private accommodatio
 - Check for missing values
 - Data pre-processing
   - Check for duplicates
-- 
+  - Drop unnecessary columns
+- Data Visualization
+- Regression Model
+- Conclusion
