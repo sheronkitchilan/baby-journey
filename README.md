@@ -30,15 +30,15 @@ Private rooms are great for when you prefer a little privacy, and still value a 
 
 Shared rooms
 Shared rooms are for when you don't mind sharing a space with others. When you book a shared room, you'll be sleeping in a space that is shared with others and share the entire space with other people. Shared rooms are popular among flexible travelers looking for new friends and budget-friendly stays."                        
-- price                             
-- minimum_nights                    
-- number_of_reviews                 
-- last_review                        
-- reviews_per_month                 
-- calculated_host_listings_count     
-- availability_365                   
-- number_of_reviews_ltm              
-- license                       
+- price - Daily price in local currency                            
+- minimum_nights  - Minimum number of night stay for the listing (calendar rules may be different)                  
+- number_of_reviews  - The number of reviews the listing has               
+- last_review    - The date of the last/newest review                    
+- reviews_per_month  - The number of reviews the listing has over the lifetime of the listing           
+- calculated_host_listings_count  - The number of listings the host has in the current scrape, in the city/region geography.   
+- availability_365    - avaliability_365. The availability of the listing 365 days in the future as determined by the calendar. Note a listing may not be available because it has been booked by a guest or blocked by the host.               
+- number_of_reviews_ltm  - The number of reviews the listing has (in the last 12 months)            
+- license  - The licence/permit/registration number                     
 
 ## Content
 
