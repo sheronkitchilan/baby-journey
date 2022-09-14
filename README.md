@@ -6,4 +6,10 @@ Airbnb is a paid community platform for renting and booking private accommodatio
 
 ## Content
 
+- Installing libraries
 - Importing libraries
+- Load dataset
+- Check for missing values
+- Data pre-processing
+- - Check for duplicates
+- 
