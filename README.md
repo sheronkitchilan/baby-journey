@@ -6,7 +6,6 @@ Airbnb is a paid community platform for renting and booking private accommodatio
 
 ## Content
 
-- Installing libraries
 - Importing libraries
 - Load dataset
 - Check for missing values
@@ -18,4 +17,7 @@ Airbnb is a paid community platform for renting and booking private accommodatio
 - Conclusion
 
 ### Conclusion
+
+Data analysis was conducted on the given dataset after performing proper data cleansing tasks and interpritaions were given to each visualization.
+
 It is evident that majority of the room type which is accessed by people are Entire Home/apt and private room over hotel rooms and shared rooms. Price range of entire home/apt varies around 100-300 euro per night and private room varies around 50-150 euro per night. Most popular neighbourhood can be listed as De Baarsjes -Oud West and Centrum- West. The numbers go hand in hand for the given neighbourhood when compared to rest of the list. When comparing availability-365 variable over lattitude and longitude it is evident that majority of the prpoperties were not avilable through out the year. Overall, the dataset is too small to run a regression model hence the R squared value came down to 11%
