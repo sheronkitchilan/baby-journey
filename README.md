@@ -7,7 +7,7 @@ Airbnb is a paid community platform for renting and booking private accommodatio
 The given data set size 6173 records and 18 columns
 
 ### Data Dictionary
-- id                                   
+- id - Airbnb's unique identifier for the listing                                  
 - name                                 
 - host_id                              
 - host_name                           
