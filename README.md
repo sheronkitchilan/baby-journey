@@ -8,13 +8,11 @@ The given data set size 6173 records and 18 columns
 
 ### Data Dictionary
 - id - Airbnb's unique identifier for the listing                                  
-- name                                 
-- host_id                              
-- host_name                           
-- neighbourhood_group               
-- neighbourhood                     
-- latitude                          
-- longitude                         
+- name - Name of the listing                              
+- host_id - Airbnb's unique identifier for the host/user                             
+- host_name - Name of the host. Usually just the first name(s).                         
+- neighbourhood_group - The neighbourhood group as geocoded using the latitude and longitude against neighborhoods as defined by open or public digital shapefiles.  - neighbourhood - The neighbourhood as geocoded using the latitude and longitude against neighborhoods as defined by open or public digital shapefiles.             - latitude - Uses the World Geodetic System (WGS84) projection for latitude and longitude.                         
+- longitude - Uses the World Geodetic System (WGS84) projection for latitude and longitude.                        
 - room_type                         
 - price                             
 - minimum_nights                    
